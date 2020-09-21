@@ -8,7 +8,7 @@ h2
 {
     color:red;
     text-align:center;
-    border: 5px solid #ff0000;
+    border: 5px solid rgb(255, 176, 170);
     cursor: pointer;
 }
 
@@ -16,3 +16,4 @@ li
 {
     display: inline-block;
 }
+
