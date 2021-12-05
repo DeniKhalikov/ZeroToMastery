@@ -11,3 +11,4 @@ Day 2: did Week 3 of LHTL
 Day 3: today I didnt do anything except typing for 10 mins. Need to improve that.
 Day 12: Need to fill in the previous days, did mostly typing and LHTL as i got the vaccine the 7th and started feeling somewhat sick, so no coding done so far.
 Day 13: Finished LHTL, started with HTML and CSS section, now half way through CSS. Started doing basic coding challenges a week ago, improving a lot and liking it.
+Day 14: 2 hours weekly standup with Discord server, discussing things we did, asking questions, QnA with present senior developers. Community is growing, great!.
